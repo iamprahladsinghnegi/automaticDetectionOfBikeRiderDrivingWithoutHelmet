@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'BikeRider'
+}
+
+item {
+  id: 2
+  name: 'Helmet'
+}
+
+item {
+  id: 3
+  name: 'WithoutHelmet'
+}
+
+item {
+  id: 4
+  name: 'LicensePlate'
+}
